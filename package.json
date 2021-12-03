@@ -1,0 +1,20 @@
+{
+  "name": "video-diy",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.10.1",
+    "core-js": "^3.19.1",
+    "js-audio-recorder": "^1.0.7",
+    "vue": "^3.2.4"
+  },
+  "devDependencies": {
+    "@ffmpeg/core": "^0.10.0",
+    "@vue/compiler-sfc": "^3.2.4",
+    "vite": "^1.0.0-rc.13",
+    "vite-plugin-cross-origin-isolation": "^0.1.1"
+  }
+}
